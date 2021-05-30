@@ -35,6 +35,7 @@ Pastikan repository kalian dalam mode Private.
 Jika sudah selesai, kalian dapat kontak saya untuk dilakukan penilaian. 
 
 Email : 13518029@std.stei.itb.ac.id
+
 Line : yahya1547
     
 ## Catatan
