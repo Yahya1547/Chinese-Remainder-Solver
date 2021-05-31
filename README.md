@@ -16,7 +16,7 @@ Buatlah sebuah aplikasi web dengan spesifikasi sebagai berikut :
 Berikut bonus pada tugas ini:
 
 1. Deploy website dengan VPS menggunakan **AWS EC2**, kalian dapat menggunakan akun **AWS Educate** menggunakan email std untuk mendapatkan free credits $100. (500 poin)
-2. Setup **CI/CD** untuk website kalian, teknologi untuk CI/CD dibebaskan, contohnya seperti **Github Action** atau **GitLab Pipeline** namun tidak terbatas pada kedua hal tersebut. (300 poin)
+2. Setup **CI/CD** untuk website kalian, teknologi untuk CI/CD dibebaskan, contohnya seperti **Github Action** atau **GitLab Pipeline** namun tidak terbatas pada kedua hal tersebut. (500 poin)
 
 ## Penilaian
 Berikut berbagai aspek yang diperhatikan sebagai penilaian :
