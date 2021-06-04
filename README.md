@@ -18,6 +18,9 @@ Berikut bonus pada tugas ini:
 1. Deploy website dengan VPS menggunakan **AWS EC2**, kalian dapat menggunakan akun **AWS Educate** menggunakan email std untuk mendapatkan free credits $100. (500 poin)
 2. Setup **CI/CD** untuk website kalian, teknologi untuk CI/CD dibebaskan, contohnya seperti **Github Action** atau **GitLab Pipeline** namun tidak terbatas pada kedua hal tersebut. (500 poin)
 
+### Update Spesifikasi Bonus
+Bagi yang bermasalah dengan akun AWS Educate yang tidak dapat mengakses console, kalian dapat menggunakan alternatif lain, yaitu menggunakan **Azure** dengan **Student Subscription**. Website di-deploy menggunakan Azure Virtual Machine, dan untuk size Virtual Machine yang digunakan, dibebaskan kepada kalian, namun disarankan menggunakan size B1s dan direkomendasikan menggunakan region southeast-asia untuk Virtual Machine yang dibuat. Pastikan website yang kalian buat dapat diakses public menggunakan protokol **HTTP**
+
 ## Penilaian
 Berikut berbagai aspek yang diperhatikan sebagai penilaian :
 1. Fungsionalitas Program
@@ -39,4 +42,4 @@ Email : 13518029@std.stei.itb.ac.id
 Line : yahya1547
     
 ## Catatan
-Apabila terdapat hal yang masih kurang jelas, kalian dapat menyampaikan pertanyaan dengan membuat **Issue** pada repo ini agar peserta lain juga dapat berdiskusi membahas pertanyaan tersebut.
+Apabila terdapat hal yang masih kurang jelas, kalian dapat menyampaikan pertanyaan dengan membuat **Issue** pada repo ini agar peserta lain juga dapat berdiskusi membahas pertanyaan tersebut
